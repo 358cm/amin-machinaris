@@ -1,0 +1,6 @@
+/* Import status icons styles */
+@import './styles/statusIcons.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
